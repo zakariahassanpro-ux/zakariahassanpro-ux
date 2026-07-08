@@ -11,7 +11,7 @@
 
 ## 🛠️ About Me & Core Skills
 
-I am an engineering student and developer focused on hardware-software integration, electronics, and embedded systems. 
+I am an Electrical Engineering student at Al-Mustansiriya University and a developer focused on hardware-software integration, electronics, and embedded systems.
 
 *   ⚕️ Medical Devices: Strong background in the maintenance, schematics, and functional principles of biomedical equipment.
 *   🤖 Microcontroller Programming: Experienced in developing firmware for embedded systems, sensors, and wireless communication modules.
