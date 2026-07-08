@@ -1,35 +1,34 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40" alt="Header Image">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Workspace&fontSize=40" alt="Header Image">
 </p>
 
 <p align="center">
-  <!-- يمكنك استبدال الروابط أدناه بروابط حساباتك الحقيقية لاحقاً -->
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
 ---
 
-## 🛠️ عني وعن مهاراتي (About Me)
+## 🛠️ About Me & Core Skills
 
-أنا مهتم ومختص في مجالات الهندسة والبرمجيات المدمجة، وأعمل على دمج العتاد الصلب (Hardware) مع البرمجة الذكية:
+I am an engineering student and developer focused on hardware-software integration, electronics, and embedded systems. 
 
-*   ⚕️ الأجهزة الطبية (Medical Devices): معرفة وصيانة وفهم الأنظمة والمستشعرات الطبية الحيوية.
-*   🤖 برمجة المتحكمات المدمجة (Microcontrollers): بناء وتطوير الأنظمة الذكية والأنظمة اللاسلكية والتحكم بالمحركات.
-*   💻 لغة C++: كتابة كود فعال ومنظم لبرمجة الأنظمة والمتحكمات الدقيقة وتطوير الخوارزميات.
-*   📐 تصميم نماذج ثلاثية الأبعاد (3D Modeling): تصميم الهياكل والأجزاء الميكانيكية بدقة لتناسب المشاريع الهندسية.
-
----
-
-## 🚀 مشاريع وأفكار أعمل عليها حالياً
-
-*   ⚡ تطوير أنظمة تحكم لاسلكية بعيدة المدى باستخدام بروتوكولات مخصصة.
-*   🎛️ تصميم لوحات دوائر مطبوعة (PCBs) مخصصة للمشاريع الإلكترونية.
-*   🛠️ دمج التصاميم ثلاثية الأبعاد مع الأنظمة الميكانيكية والإلكترونية.
+*   ⚕️ Medical Devices: Strong background in the maintenance, schematics, and functional principles of biomedical equipment.
+*   🤖 Microcontroller Programming: Experienced in developing firmware for embedded systems, sensors, and wireless communication modules.
+*   💻 C++ Development: Writing efficient, structured, and optimized code for low-level system applications and hardware control.
+*   📐 3D Modeling & Design: Designing mechanical parts, enclosures, and functional 3D models tailored for engineering projects.
 
 ---
 
-## 📊 إحصائيات جيت هاب (GitHub Stats)
+## 🚀 Current Focus & Projects
+
+*   ⚡ Developing long-range RF wireless control and transmission systems.
+*   🎛️ Designing custom Printed Circuit Boards (PCBs) from schematics to physical production.
+*   🛠️ Merging mechanical 3D prints with embedded hardware for functional prototypes.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats">
